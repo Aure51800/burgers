@@ -1,8 +1,7 @@
 steak
-cheese
+salade
+tomate
 oignons
 cornichons
 ketchup
-moutarde
-poivron
 pains
